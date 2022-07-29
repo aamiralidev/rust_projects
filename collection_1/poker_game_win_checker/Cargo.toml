@@ -1,0 +1,9 @@
+[package]
+name = "poker_game_win_checker"
+version = "0.1.0"
+authors = ["Aamir Ali"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
